@@ -13,3 +13,11 @@ body{
     display: flex;
     justify-content: center;
 }
+
+header{
+    font-size: 35px;
+    color: white;
+    border-bottom: white;
+    padding: 20px;
+
+}
